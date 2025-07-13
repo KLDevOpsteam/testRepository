@@ -1,0 +1,4 @@
+echo find the  Load Check for now
+w |grep load >> /home/anjana/logs/loadcheck.log
+
+
